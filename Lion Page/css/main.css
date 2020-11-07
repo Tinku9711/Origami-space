@@ -1,0 +1,217 @@
+* {
+  overflow-x: hidden;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.v23_30 {
+  width: 100%;
+  height: 2170px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v23_42 {
+  width: 586px;
+  height: 1647px;
+  background: url("../images/v23_42.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 172px;
+  left: 223px;
+  overflow: hidden;
+}
+.v50_6 {
+  width: 576px;
+  height: 1164px;
+  background: url("../images/v50_6.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 483px;
+  left: 0px;
+  overflow: hidden;
+}
+.v50_4 {
+  width: 576px;
+  height: 91px;
+  background: rgba(242,153,74,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v50_5 {
+  width: 528px;
+  color: rgba(242,242,242,1);
+  position: absolute;
+  top: 0px;
+  left: 30px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+.v52_1 {
+  width: 500px;
+  height: 1030px;
+  background: url("../images/v52_1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 134px;
+  left: 39px;
+  overflow: hidden;
+}
+.v50_7 {
+  width: 500px;
+  height: 100%;
+  background: rgba(242,153,74,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v52_0 {
+  width: 450px;
+  height: 964px;
+  background: url("../images/v52_0.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  left: 25px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v23_44 {
+  width: 576px;
+  height: 91px;
+  background: url("../images/v23_44.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 352px;
+  left: 1px;
+  overflow: hidden;
+}
+.v23_45 {
+  width: 576px;
+  height: 91px;
+  background: rgba(242,153,74,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v23_46 {
+  width: 528px;
+  color: rgba(47,128,237,1);
+  position: absolute;
+  top: 7px;
+  left: 29px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+.v23_47 {
+  width: 585px;
+  height: 312px;
+  background: url("../images/v23_47.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+  overflow: hidden;
+}
+.v23_56 {
+  width: 200px;
+  height: 200px;
+  background: url("../images/v23_56.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 188px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v23_48 {
+  width: 585px;
+  height: 92px;
+  background: rgba(242,153,74,1);
+  opacity: 1;
+  position: absolute;
+  top: 220px;
+  left: 585px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v23_49 {
+  width: 481px;
+  color: rgba(242,242,242,1);
+  position: absolute;
+  top: 235px;
+  left: 48px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Rochester;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
